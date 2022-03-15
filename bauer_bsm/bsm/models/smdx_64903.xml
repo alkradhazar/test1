@@ -26,7 +26,6 @@
         An OCMF representation of a BSM Signed Snapshot (model ID 64901).
         Signed snapshots and their OCMF representations are matched by the
         'Typ' data point.
-
         The OCMF representation contains selected data from the underlying
         snapshot. For example, 'Meta1' is taken as identity information and the
         other metadata data points are omitted.
