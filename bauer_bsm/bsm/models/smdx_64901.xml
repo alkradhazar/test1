@@ -128,7 +128,7 @@
         </description>
       </symbol>
     </point>
-    <point id="St">
+    <symbol id="UPDATING">2</symbol>
       <label>Snapshot Status</label>
       <description>Status of this snapshot instance</description>
       <notes>
