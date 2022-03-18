@@ -26,11 +26,11 @@
     {
       "@context": "https://www.chargeit-mobility.com/contexts/bsm-ws36a-json-v1",
       "@id": "001BZR1521070006-22978",
-      "time": "2022-03-17T10:10:20,000+0100 S",
+      "time":"2022-03-18T11:09:16,000+0100 S",
       "meterInfo": {
         "firmwareVersion": "1.9:32CA:AFF4, 6d1dd3c",
         "publicKey": "3059301306072a8648ce3d020106082a8648ce3d03010703420004fad72342d5da6220bcc80cacf8d1644f215cd89c6c386c7d60f5677afd0653c2db1641e9ca4612c16a64a93edceeb28e2317d7de8212c9e3513f2ffdf218d667",
-        "meterId": "001BZR1521070006",
+        "meterId": "001BZR1521410314",
         "manufacturer": "BAUER Electronic",
         "type": "BSM-WS36A-H01-1311-0000"
       },
