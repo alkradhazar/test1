@@ -8,7 +8,7 @@
         <symbol id="START">3</symbol>
         <symbol id="END">4</symbol>
       </point>
-      <point id="St" offset="1" type="enum16" access="rw">
+      <point id="Snapshot Status" offset="1" type="enum16" access="rw">
         <symbol id="VALID">0</symbol>
         <symbol id="INVALID">1</symbol>
         <symbol id="UPDATING">2</symbol>
